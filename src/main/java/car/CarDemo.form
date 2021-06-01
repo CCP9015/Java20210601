@@ -13,16 +13,10 @@
           <columns value="30"/>
         </properties>
       </component>
-      <hspacer id="16120">
-        <constraints/>
-      </hspacer>
-      <vspacer id="21c8a">
-        <constraints/>
-      </vspacer>
-      <component id="31855" class="javax.swing.JButton" binding="button1" default-binding="true">
+      <component id="31855" class="javax.swing.JButton" binding="sendButton" default-binding="true">
         <constraints/>
         <properties>
-          <text value="Button"/>
+          <text value="send"/>
         </properties>
       </component>
     </children>
