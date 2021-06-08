@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 public class Test {
-
+/*
     public static void main(String[] args) {
         String id = null;
 
@@ -16,7 +16,7 @@ public class Test {
             for (int i = 0; i < args.length; i++) {
                 System.out.println("please enter your car'id");
                 id = scan.next();
-                Car c[i] = new Car(id);
+                Car c[i]= new Car(id);
                 cars.put(c[i].id,c[i]);
                 Car car = cars.get(id);
                 i=+1;
@@ -35,5 +35,5 @@ public class Test {
             }
         }while (id.equalsIgnoreCase("bye"));
 
-    }
+    }*/
 }
